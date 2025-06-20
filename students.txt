@@ -1,0 +1,5 @@
+Diesel A.D.;11;7.5
+Sazonov M.D.;241;10
+Karasinaya Morda;241;1
+Avramchik M.I.;241;6
+Logvinov Smecharik;251;5
